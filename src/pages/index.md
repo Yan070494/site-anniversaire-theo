@@ -10,7 +10,8 @@ mainpitch:
     Après avoir collectés une montagne de cadeaux et triomphé des 40 scénarios de RollerCoaster Tycoon 3, 
     je pense qu'il est temps de te dévoiler la suite des évènements. Peut-être pas tout ce qui t'attend,
     ne gâchons pas la surprise, mais au moins un cadeau très spécial pour le temps passé à jouer à l'un de
-    mes jeux favoris. Après tout, tu y as consacré plusieurs dizaines d'heure et tout ça mérite une belle récompense !
+    mes jeux favoris. Après tout, tu y as consacré plusieurs dizaines d'heure et tout ça mérite une belle récompense ! Pour valider ton cadeau, 
+    fais-moi signe en me donnant l'appareil de ton choix et le mot de passe (gain du rang Entrepreneur).
 description: >-
   Avec le temps qui passe, toutes tes responsabilités et tes projets, il ne fait aucun doute que tu auras de moins en
   moins de temps à consacrer aux jeux vidéo. Je crois qu'il faut s'en réjouir, parce qu'une vie bien remplie avec une
