@@ -1,36 +1,34 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Félicitations Théo !
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Le choix t'appartient
+subheading: Tu es venu à bout de mon défi 😁
 mainpitch:
-  title: Why Kaldi
+  title: Que se passe-t-il maintenant ?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Après avoir passé collectés une montagne de cadeaux et triomphé des 40 scénarios de RollerCoaster Tycoon 3, 
+    je pense qu'il est temps de te dévoiler la suite des évènements. Peut-être pas tout ce qui t'attend,
+    ne gâchons pas la surprise, mais au moins un cadeau très spécial pour pris le temps de jouer à l'un de
+    mes jeux favoris. Après tout, tu y as consacré plusieurs dizaines d'heure et tout ça mérite une belle récompense !
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Avec le temps qui passe, toutes tes responsabilités et tes projets, il ne fait aucun doute que tu auras de moins en
+  moins de temps à consacrer aux jeux vidéo. Je crois qu'il faut s'en réjouir, parce qu'une vie bien remplie avec une
+  famille, des amis et un travail stable vaut bien tous les jeux du monde. Malgré tout, une petite partie de temps en
+  temps ne fera de mal à personne, encore faut-il avoir l'appreil adéquat :
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/RXA.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Voici La ROG Xbox Ally X, le meilleur choix pour un joueur PC nomade ! Tout Windows 11,
+        le Game Pass, Steam intégré dans une Xbox portable d'une puissance phénoménale.
+        C'est l'allié parfait pour les sessions de haut niveau, à condition d'avoir envie
+        d'emporter tes AAA dans ton sac à dos.
+    - image: /img/RXAW.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Le coloris blanc n'est pas la seule différence de la ROG Xbox Ally ! Toujours une Xbox, certes, 
+        mais moins performante, elle convient mieux aux jeux intermédiaires et indépendants. 
+        Un excellent choix pour les jeux en mode partie courte, également pour des titres moins gourmands.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -45,6 +43,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/meeting-space.png
+      text: >
+        We believe that good coffee has the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow coffee lovers and learn about
+        coffee making techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.  
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
